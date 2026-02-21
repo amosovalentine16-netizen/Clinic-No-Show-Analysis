@@ -1,0 +1,101 @@
+Patient_ID,Age,Gender,Appointment_Date,Day_of_Week,Appointment_Time,Department,No_Show,Waiting_Time_Minutes
+1,15,Female,2026-02-17,Tuesday,12:15,Pediatrics,Yes,18
+2,70,Female,2026-02-07,Thursday,08:00,General,No,69
+3,78,Female,2026-02-05,Thursday,11:45,Pediatrics,No,40
+4,1,Female,2026-02-14,Thursday,13:30,Pediatrics,No,48
+5,14,Female,2026-01-25,Monday,13:30,Eye Clinic,No,10
+6,59,Female,2026-03-01,Thursday,09:30,Eye Clinic,No,51
+7,74,Female,2026-02-15,Monday,08:15,Maternity,No,34
+8,13,Male,2026-01-18,Thursday,13:15,Maternity,No,90
+9,35,Female,2026-02-08,Tuesday,16:15,Pediatrics,No,39
+10,72,Female,2026-02-13,Friday,13:00,Pediatrics,No,45
+11,52,Male,2026-01-05,Monday,11:30,Pediatrics,No,55
+12,59,Female,2026-01-17,Tuesday,11:30,Eye Clinic,No,79
+13,52,Male,2026-01-15,Thursday,10:45,General,No,19
+14,20,Female,2026-02-20,Friday,14:00,Dental,No,64
+15,68,Male,2026-02-05,Thursday,08:00,Eye Clinic,No,87
+16,44,Female,2026-01-19,Monday,14:15,Dental,Yes,38
+17,65,Female,2026-02-02,Monday,09:30,Eye Clinic,No,24
+18,48,Female,2026-02-04,Wednesday,16:00,Eye Clinic,No,7
+19,15,Male,2026-02-26,Thursday,12:15,General,No,77
+20,11,Female,2026-02-16,Monday,15:00,Eye Clinic,No,21
+21,61,Female,2026-01-17,Friday,14:15,Eye Clinic,No,30
+22,40,Male,2026-02-12,Thursday,13:45,Eye Clinic,No,36
+23,29,Female,2026-01-22,Thursday,08:15,Eye Clinic,No,14
+24,8,Female,2026-01-05,Monday,08:30,General,No,40
+25,63,Female,2026-02-04,Wednesday,10:45,Pediatrics,No,57
+26,25,Female,2026-01-07,Wednesday,14:30,Dental,No,11
+27,13,Female,2026-01-26,Monday,13:00,Pediatrics,Yes,73
+28,58,Female,2026-01-28,Wednesday,10:30,Dental,No,14
+29,57,Female,2026-01-04,Friday,08:00,Pediatrics,Yes,67
+30,62,Female,2026-02-25,Wednesday,14:00,Pediatrics,No,54
+31,34,Male,2026-01-19,Monday,14:45,Pediatrics,Yes,32
+32,8,Female,2026-02-17,Tuesday,13:00,General,No,69
+33,68,Female,2026-01-04,Friday,09:15,General,No,35
+34,52,Female,2026-03-02,Monday,11:00,Eye Clinic,Yes,89
+35,75,Male,2026-03-01,Wednesday,11:30,Pediatrics,No,21
+36,39,Male,2026-01-21,Wednesday,09:00,Dental,No,77
+37,13,Female,2026-02-04,Wednesday,11:30,Pediatrics,No,13
+38,32,Male,2026-01-19,Monday,10:45,Eye Clinic,No,83
+39,68,Female,2026-02-12,Thursday,16:30,General,No,22
+40,34,Female,2026-02-26,Thursday,09:15,Maternity,No,31
+41,44,Female,2026-02-13,Friday,12:45,Maternity,No,11
+42,12,Male,2026-02-23,Monday,12:00,General,No,21
+43,34,Female,2026-02-17,Tuesday,15:45,Eye Clinic,Yes,14
+44,20,Female,2026-02-23,Monday,13:15,Dental,Yes,44
+45,47,Female,2026-02-27,Friday,13:15,Pediatrics,No,50
+46,72,Male,2026-02-09,Monday,10:15,Pediatrics,No,27
+47,53,Female,2026-01-12,Monday,13:45,Pediatrics,No,18
+48,49,Female,2026-02-24,Tuesday,15:15,Pediatrics,No,63
+49,45,Male,2026-02-22,Tuesday,11:00,Pediatrics,No,40
+50,9,Male,2026-01-23,Friday,16:45,Eye Clinic,No,8
+51,15,Male,2026-01-12,Monday,12:00,General,No,49
+52,41,Male,2026-02-08,Friday,09:45,Eye Clinic,Yes,10
+53,56,Female,2026-02-03,Tuesday,16:15,Maternity,No,90
+54,43,Male,2026-02-12,Thursday,09:30,Eye Clinic,No,57
+55,42,Male,2026-02-14,Wednesday,16:15,Pediatrics,No,53
+56,23,Male,2026-01-26,Monday,16:00,Maternity,No,60
+57,75,Male,2026-01-30,Friday,15:45,Pediatrics,No,26
+58,11,Male,2026-02-02,Monday,13:00,Pediatrics,No,33
+59,26,Female,2026-01-02,Friday,08:15,Dental,No,14
+60,59,Male,2026-02-26,Thursday,11:45,Dental,No,23
+61,1,Female,2026-02-19,Thursday,14:15,Pediatrics,No,71
+62,60,Female,2026-02-05,Thursday,11:00,Dental,Yes,64
+63,68,Male,2026-03-02,Monday,15:45,Eye Clinic,No,25
+64,61,Male,2026-01-17,Tuesday,12:45,Pediatrics,No,14
+65,37,Female,2026-01-18,Wednesday,13:00,Pediatrics,Yes,54
+66,20,Female,2026-01-05,Monday,14:45,Maternity,No,58
+67,8,Female,2026-02-23,Monday,14:45,Eye Clinic,No,7
+68,74,Male,2026-01-31,Monday,13:30,Dental,No,58
+69,69,Female,2026-02-01,Tuesday,12:45,Dental,Yes,48
+70,52,Female,2026-02-23,Monday,15:15,Eye Clinic,No,55
+71,76,Female,2026-01-06,Tuesday,14:15,Dental,Yes,38
+72,49,Male,2026-01-14,Wednesday,15:30,Maternity,No,53
+73,36,Male,2026-01-17,Monday,15:00,Eye Clinic,Yes,49
+74,29,Female,2026-02-19,Thursday,08:00,Pediatrics,Yes,7
+75,80,Female,2026-01-16,Friday,10:45,General,No,32
+76,60,Male,2026-02-19,Thursday,13:15,Eye Clinic,No,19
+77,21,Male,2026-01-07,Wednesday,08:30,Eye Clinic,No,53
+78,51,Female,2026-01-05,Monday,11:00,Maternity,No,81
+79,16,Female,2026-01-23,Friday,16:45,Maternity,Yes,87
+80,44,Female,2026-02-24,Tuesday,14:45,General,No,51
+81,59,Female,2026-01-28,Wednesday,10:30,Eye Clinic,No,73
+82,62,Male,2026-01-28,Wednesday,12:30,Pediatrics,No,16
+83,36,Male,2026-01-16,Friday,15:45,Maternity,Yes,46
+84,24,Male,2026-01-14,Wednesday,13:30,Maternity,No,81
+85,36,Female,2026-02-03,Tuesday,11:00,Pediatrics,No,67
+86,72,Female,2026-02-14,Thursday,15:45,General,Yes,33
+87,52,Female,2026-01-20,Tuesday,13:45,Eye Clinic,No,59
+88,71,Male,2026-01-23,Friday,15:30,Maternity,No,20
+89,25,Male,2026-01-08,Thursday,16:15,Pediatrics,No,66
+90,36,Male,2026-01-07,Wednesday,11:30,Pediatrics,No,43
+91,2,Female,2026-01-18,Monday,08:30,Pediatrics,No,67
+92,14,Female,2026-02-06,Friday,12:45,Dental,No,28
+93,7,Male,2026-03-02,Monday,15:00,General,No,14
+94,74,Female,2026-01-10,Tuesday,12:00,Pediatrics,Yes,58
+95,78,Female,2026-02-19,Thursday,16:45,Dental,No,43
+96,76,Male,2026-01-20,Tuesday,08:00,Pediatrics,No,38
+97,11,Female,2026-01-16,Friday,10:00,Pediatrics,Yes,62
+98,77,Male,2026-01-19,Monday,08:15,Maternity,No,63
+99,10,Female,2026-03-01,Wednesday,11:45,General,No,87
+100,20,Male,2026-02-22,Tuesday,09:00,Pediatrics,No,81
